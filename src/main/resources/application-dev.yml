@@ -1,0 +1,13 @@
+server:
+  port: 9011
+
+#最大连接数
+http:
+  hostname: http://10.128.4.99:8080/gfxd
+  #hostname: http://localhost:8080/gfxd_run_war_exploded
+  token: 2b5bb4d9a999cb14be332052b02136f9
+
+
+
+
+
